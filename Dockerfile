@@ -1,2 +1,2 @@
 FROM alpine:latest
-CMD ["watch", "echo 'test 1'"]
+CMD ["watch", "echo 'test 2'"]
